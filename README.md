@@ -17,3 +17,6 @@ C++ (version used during development: c++14)
 Version control logs in the GitLab page.
 
 User Manual and Software Documentation in the Documentation folder.
+
+Screenshot:
+![Image](https://github.com/ctrgrb/NowItWent/blob/main/Game.png)
